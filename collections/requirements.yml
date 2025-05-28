@@ -1,5 +1,5 @@
 ---
 collections:
   - name: my.common
-    source: git@github.com:my-new-test-org-sschmitt/my-ansible-collection.git
+    source: https://github.com/my-new-test-org-sschmitt/my-ansible-collection.git
     type: git
